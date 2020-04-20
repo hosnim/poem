@@ -1,4 +1,4 @@
-the Hosni and the Unicorn
+the Hosni and the Unicorn and hosni
 
 People
 Pink
@@ -10,3 +10,4 @@ Yellow
 Red
 These are the colors of the hosni
 and the unicorn
+hosni
